@@ -1,0 +1,102 @@
+/**/
+*{
+	margin:0px;
+	padding: 0px;
+}
+/*color de fondo*/
+body{
+	background: #444;
+	color:#fff;
+}
+#Contenedor{ /*parte de arria*/
+	width: 960px;
+	margin-top: 20px;
+	margin: auto;
+	margin-bottom: 20px;
+border-radius: 20px; /*border redondo*/
+overflow: hideen;
+}
+
+
+header{
+	height: 150px;
+	background: #000;
+}
+header h1{
+	font-size: 50px;
+	text-align: center;
+	line-height: 150px;
+}
+nav{
+background: #F3BDF0;
+height: 60px;
+}
+
+
+nav h2{
+	font-size:40px /*tamaño del texto*/
+	font-size:center;
+	text-align: center;
+	line-height: 60px;/*alto*/ 
+}
+#contenido{
+	width: 700px;
+	height: 500px;
+	float: left;
+	background: blue;
+	margin-top: 10px;
+	margin-right: 10px; 
+	margin-bottom: 10px;
+}
+
+
+
+#contenido h2{
+font-size:40px /*tamaño del texto*/
+	text-align: center;
+	line-height: 500px;
+}
+
+
+aside{
+	width: 250px;
+	height: 500px;
+	background: #F3BDF0;
+	margin-top: 10px;
+	float: right;
+}
+
+
+
+
+
+aside h2{
+	font-size:40px /*tamaño del texto*/
+	text-align: center;
+	line-height: 60px;
+}
+
+
+
+
+footer{
+	background: #000;
+	clear: both;
+}
+
+
+
+
+
+/*titulo*/
+footer h2{
+	font-size:40px /*tamaño del texto*/
+	text-align: center;
+	padding: 20px;
+	font-style: italic;
+
+}
+
+
+
+
